@@ -18,5 +18,7 @@ QR Scanner: https://www.apkmirror.com/apk/kaspersky-lab/qr-code-reader-and-scann
 
 QR Scanner Trend Micro: https://qr-scanner-trend-micro.en.aptoide.com/app
 
+
+
 ## Disclaimer:
 There are fancy phishing QR codes in the uploaded dataset. The audience (viewers) are strongly requested to not scan any of the fancy phishing QR code and visit the affiliated link. This dataset is only uploaded for research purposes and associated with a research study which is currently under publication process.
